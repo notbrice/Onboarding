@@ -10,14 +10,14 @@ Some projects are also more guided than others, so we recommend doing those firs
 build up some confidence 😊
 
 ## What do I do in Onboarding?
-You will select a project or projects to work on for the 8 week duration while keeping a logbook. Refer to the [Onboarding Timeline](https://github.com/PerthAerospaceStudentTeam/Onboarding/blob/main/0.%20Resources/Onboarding%20Timeline.md) for specific tasks you should complete each week. 
+You will select a project or projects to work on for the 8 week duration while keeping a logbook. Refer to the Onboarding Timeline in the Discord for specific tasks you should complete each week. 
 
 **To join a department, you must have evidence of that department's work in your logbook.**
 
 In this repository, you will find a collection of projects grouped into our departments:
 1. ADCS
 2. Avionics
-3. Marketing
+3. Business
 4. Mechanical
 5. Software
 6. Team Development
